@@ -1,0 +1,1 @@
+This repository contains a simple C++ program that illustrates a common error related to pointer arithmetic. The code demonstrates how changes made through a pointer affect the original variable.  The solution clarifies this concept.
